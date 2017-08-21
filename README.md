@@ -8,7 +8,8 @@ iteration number
 transmitter's MAC
 transmiter's RSS
 
-Language used in script: Polish
+Language: Python
+Language used in script: Polish (descriptions)
 
 Received data can be used in further analysis.
 
