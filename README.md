@@ -9,6 +9,7 @@ transmitter's MAC
 transmiter's RSS
 
 Language: Python
+
 Language used in script: Polish (descriptions)
 
 Received data can be used in further analysis.
